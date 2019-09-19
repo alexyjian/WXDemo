@@ -1,0 +1,12 @@
+D:\WeixinApp\MusicServer\Entities\bin\Release\Entities.dll.config
+D:\WeixinApp\MusicServer\Entities\bin\Release\Entities.dll
+D:\WeixinApp\MusicServer\Entities\bin\Release\Entities.pdb
+D:\WeixinApp\MusicServer\Entities\bin\Release\EntityFramework.dll
+D:\WeixinApp\MusicServer\Entities\bin\Release\EntityFramework.SqlServer.dll
+D:\WeixinApp\MusicServer\Entities\bin\Release\EntityFramework.xml
+D:\WeixinApp\MusicServer\Entities\bin\Release\EntityFramework.SqlServer.xml
+D:\WeixinApp\MusicServer\Entities\obj\Release\Entities.csprojAssemblyReference.cache
+D:\WeixinApp\MusicServer\Entities\obj\Release\Entities.csproj.CoreCompileInputs.cache
+D:\WeixinApp\MusicServer\Entities\obj\Release\Entities.csproj.CopyComplete
+D:\WeixinApp\MusicServer\Entities\obj\Release\Entities.dll
+D:\WeixinApp\MusicServer\Entities\obj\Release\Entities.pdb
